@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "name": "Anshika Singh",
+    "email": "anshika@gmail.com",
+    "department": "CSE"
+  },
+  {
+    "id": 102,
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "department": "IT"
+  },
+  {
+    "id": 103,
+    "name": "Priya Verma",
+    "email": "priya@gmail.com",
+    "department": "HR"
+  }
+]
